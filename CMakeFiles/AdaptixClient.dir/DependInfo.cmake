@@ -1,0 +1,116 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/Konsole/util/utf8proc.c" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/util/utf8proc.c.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/util/utf8proc.c.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/build_release/AdaptixClient_autogen/IYAB2T4AXM/qrc_kddockwidgets_resources.cpp" "CMakeFiles/AdaptixClient.dir/AdaptixClient_autogen/IYAB2T4AXM/qrc_kddockwidgets_resources.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/AdaptixClient_autogen/IYAB2T4AXM/qrc_kddockwidgets_resources.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/build_release/AdaptixClient_autogen/MLZ5JZTR7P/qrc_res.cpp" "CMakeFiles/AdaptixClient.dir/AdaptixClient_autogen/MLZ5JZTR7P/qrc_res.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/AdaptixClient_autogen/MLZ5JZTR7P/qrc_res.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/build_release/AdaptixClient_autogen/S5YYZ2ZCNV/qrc_Resources.cpp" "CMakeFiles/AdaptixClient.dir/AdaptixClient_autogen/S5YYZ2ZCNV/qrc_Resources.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/AdaptixClient_autogen/S5YYZ2ZCNV/qrc_Resources.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/build_release/AdaptixClient_autogen/mocs_compilation.cpp" "CMakeFiles/AdaptixClient.dir/AdaptixClient_autogen/mocs_compilation.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/AdaptixClient_autogen/mocs_compilation.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/Konsole/Emulation.cpp" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/Emulation.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/Emulation.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/Konsole/Screen.cpp" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/Screen.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/Screen.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/Konsole/ScreenWindow.cpp" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/ScreenWindow.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/ScreenWindow.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/Konsole/TerminalDisplay.cpp" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/TerminalDisplay.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/TerminalDisplay.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/Konsole/Vt102Emulation.cpp" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/Vt102Emulation.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/Vt102Emulation.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/Konsole/konsole.cpp" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/konsole.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/konsole.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/Konsole/util/CharWidth.cpp" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/util/CharWidth.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/util/CharWidth.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/Konsole/util/ColorScheme.cpp" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/util/ColorScheme.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/util/ColorScheme.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/Konsole/util/Filter.cpp" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/util/Filter.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/util/Filter.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/Konsole/util/History.cpp" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/util/History.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/util/History.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/Konsole/util/HistorySearch.cpp" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/util/HistorySearch.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/util/HistorySearch.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/Konsole/util/KeyboardTranslator.cpp" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/util/KeyboardTranslator.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/util/KeyboardTranslator.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/Konsole/util/SearchBar.cpp" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/util/SearchBar.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/util/SearchBar.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/Konsole/util/TerminalCharacterDecoder.cpp" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/util/TerminalCharacterDecoder.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Libs/Konsole/util/TerminalCharacterDecoder.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Agent/Agent.cpp" "CMakeFiles/AdaptixClient.dir/Source/Agent/Agent.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Agent/Agent.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Agent/Commander.cpp" "CMakeFiles/AdaptixClient.dir/Source/Agent/Commander.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Agent/Commander.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Client/AuthProfile.cpp" "CMakeFiles/AdaptixClient.dir/Source/Client/AuthProfile.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Client/AuthProfile.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Client/AxScript/AxCommandWrappers.cpp" "CMakeFiles/AdaptixClient.dir/Source/Client/AxScript/AxCommandWrappers.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Client/AxScript/AxCommandWrappers.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Client/AxScript/AxElementWrappers.cpp" "CMakeFiles/AdaptixClient.dir/Source/Client/AxScript/AxElementWrappers.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Client/AxScript/AxElementWrappers.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Client/AxScript/AxScriptEngine.cpp" "CMakeFiles/AdaptixClient.dir/Source/Client/AxScript/AxScriptEngine.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Client/AxScript/AxScriptEngine.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Client/AxScript/AxScriptManager.cpp" "CMakeFiles/AdaptixClient.dir/Source/Client/AxScript/AxScriptManager.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Client/AxScript/AxScriptManager.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Client/AxScript/AxScriptWorker.cpp" "CMakeFiles/AdaptixClient.dir/Source/Client/AxScript/AxScriptWorker.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Client/AxScript/AxScriptWorker.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Client/AxScript/AxUiFactory.cpp" "CMakeFiles/AdaptixClient.dir/Source/Client/AxScript/AxUiFactory.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Client/AxScript/AxUiFactory.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Client/AxScript/BridgeApp.cpp" "CMakeFiles/AdaptixClient.dir/Source/Client/AxScript/BridgeApp.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Client/AxScript/BridgeApp.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Client/AxScript/BridgeEvent.cpp" "CMakeFiles/AdaptixClient.dir/Source/Client/AxScript/BridgeEvent.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Client/AxScript/BridgeEvent.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Client/AxScript/BridgeForm.cpp" "CMakeFiles/AdaptixClient.dir/Source/Client/AxScript/BridgeForm.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Client/AxScript/BridgeForm.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Client/AxScript/BridgeMenu.cpp" "CMakeFiles/AdaptixClient.dir/Source/Client/AxScript/BridgeMenu.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Client/AxScript/BridgeMenu.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Client/ConsoleTheme.cpp" "CMakeFiles/AdaptixClient.dir/Source/Client/ConsoleTheme.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Client/ConsoleTheme.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Client/Extender.cpp" "CMakeFiles/AdaptixClient.dir/Source/Client/Extender.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Client/Extender.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Client/HttpRequestManager.cpp" "CMakeFiles/AdaptixClient.dir/Source/Client/HttpRequestManager.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Client/HttpRequestManager.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Client/ProcessSyncPacket.cpp" "CMakeFiles/AdaptixClient.dir/Source/Client/ProcessSyncPacket.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Client/ProcessSyncPacket.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Client/Requestor.cpp" "CMakeFiles/AdaptixClient.dir/Source/Client/Requestor.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Client/Requestor.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Client/Settings.cpp" "CMakeFiles/AdaptixClient.dir/Source/Client/Settings.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Client/Settings.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Client/Storage.cpp" "CMakeFiles/AdaptixClient.dir/Source/Client/Storage.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Client/Storage.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Client/TunnelEndpoint.cpp" "CMakeFiles/AdaptixClient.dir/Source/Client/TunnelEndpoint.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Client/TunnelEndpoint.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/MainAdaptix.cpp" "CMakeFiles/AdaptixClient.dir/Source/MainAdaptix.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/MainAdaptix.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Dialogs/DialogAgent.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogAgent.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogAgent.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Dialogs/DialogAgentData.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogAgentData.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogAgentData.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Dialogs/DialogConnect.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogConnect.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogConnect.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Dialogs/DialogCredential.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogCredential.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogCredential.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Dialogs/DialogDownloader.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogDownloader.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogDownloader.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Dialogs/DialogExtender.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogExtender.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogExtender.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Dialogs/DialogListener.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogListener.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogListener.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Dialogs/DialogSaveTask.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogSaveTask.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogSaveTask.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Dialogs/DialogSettings.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogSettings.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogSettings.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Dialogs/DialogSubscriptions.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogSubscriptions.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogSubscriptions.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Dialogs/DialogSyncPacket.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogSyncPacket.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogSyncPacket.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Dialogs/DialogTarget.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogTarget.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogTarget.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Dialogs/DialogTunnel.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogTunnel.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogTunnel.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Dialogs/DialogUploader.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogUploader.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Dialogs/DialogUploader.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Graph/GraphItem.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Graph/GraphItem.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Graph/GraphItem.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Graph/GraphItemLink.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Graph/GraphItemLink.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Graph/GraphItemLink.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Graph/GraphScene.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Graph/GraphScene.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Graph/GraphScene.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Graph/LayoutTreeLeft.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Graph/LayoutTreeLeft.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Graph/LayoutTreeLeft.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Graph/LayoutTreeTop.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Graph/LayoutTreeTop.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Graph/LayoutTreeTop.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Graph/SessionsGraph.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Graph/SessionsGraph.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Graph/SessionsGraph.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/MainUI.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/MainUI.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/MainUI.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Widgets/AdaptixWidget.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/AdaptixWidget.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/AdaptixWidget.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Widgets/AxConsoleWidget.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/AxConsoleWidget.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/AxConsoleWidget.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Widgets/BrowserFilesWidget.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/BrowserFilesWidget.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/BrowserFilesWidget.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Widgets/BrowserProcessWidget.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/BrowserProcessWidget.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/BrowserProcessWidget.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Widgets/ChatWidget.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/ChatWidget.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/ChatWidget.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Widgets/ConsoleWidget.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/ConsoleWidget.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/ConsoleWidget.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Widgets/CredentialsWidget.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/CredentialsWidget.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/CredentialsWidget.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Widgets/DownloadsWidget.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/DownloadsWidget.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/DownloadsWidget.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Widgets/ListenersWidget.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/ListenersWidget.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/ListenersWidget.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Widgets/LogsWidget.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/LogsWidget.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/LogsWidget.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Widgets/ScreenshotsWidget.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/ScreenshotsWidget.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/ScreenshotsWidget.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Widgets/SessionsTableWidget.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/SessionsTableWidget.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/SessionsTableWidget.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Widgets/TargetsWidget.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/TargetsWidget.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/TargetsWidget.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Widgets/TasksWidget.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/TasksWidget.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/TasksWidget.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Widgets/TerminalContainerWidget.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/TerminalContainerWidget.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/TerminalContainerWidget.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/UI/Widgets/TunnelsWidget.cpp" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/TunnelsWidget.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/UI/Widgets/TunnelsWidget.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Utils/Convert.cpp" "CMakeFiles/AdaptixClient.dir/Source/Utils/Convert.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Utils/Convert.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Utils/CustomElements.cpp" "CMakeFiles/AdaptixClient.dir/Source/Utils/CustomElements.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Utils/CustomElements.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Utils/FileSystem.cpp" "CMakeFiles/AdaptixClient.dir/Source/Utils/FileSystem.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Utils/FileSystem.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Utils/FontManager.cpp" "CMakeFiles/AdaptixClient.dir/Source/Utils/FontManager.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Utils/FontManager.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Utils/Logs.cpp" "CMakeFiles/AdaptixClient.dir/Source/Utils/Logs.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Utils/Logs.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Utils/NonBlockingDialogs.cpp" "CMakeFiles/AdaptixClient.dir/Source/Utils/NonBlockingDialogs.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Utils/NonBlockingDialogs.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Utils/TitleBarStyle.cpp" "CMakeFiles/AdaptixClient.dir/Source/Utils/TitleBarStyle.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Utils/TitleBarStyle.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Workers/BuildWorker.cpp" "CMakeFiles/AdaptixClient.dir/Source/Workers/BuildWorker.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Workers/BuildWorker.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Workers/DownloaderWorker.cpp" "CMakeFiles/AdaptixClient.dir/Source/Workers/DownloaderWorker.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Workers/DownloaderWorker.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Workers/LastTickWorker.cpp" "CMakeFiles/AdaptixClient.dir/Source/Workers/LastTickWorker.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Workers/LastTickWorker.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Workers/SocksHandshakeWorker.cpp" "CMakeFiles/AdaptixClient.dir/Source/Workers/SocksHandshakeWorker.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Workers/SocksHandshakeWorker.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Workers/TerminalWorker.cpp" "CMakeFiles/AdaptixClient.dir/Source/Workers/TerminalWorker.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Workers/TerminalWorker.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Workers/TunnelWorker.cpp" "CMakeFiles/AdaptixClient.dir/Source/Workers/TunnelWorker.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Workers/TunnelWorker.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Workers/UploaderWorker.cpp" "CMakeFiles/AdaptixClient.dir/Source/Workers/UploaderWorker.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Workers/UploaderWorker.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/Workers/WebSocketWorker.cpp" "CMakeFiles/AdaptixClient.dir/Source/Workers/WebSocketWorker.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/Workers/WebSocketWorker.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Source/main.cpp" "CMakeFiles/AdaptixClient.dir/Source/main.cpp.obj" "gcc" "CMakeFiles/AdaptixClient.dir/Source/main.cpp.obj.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

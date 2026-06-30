@@ -1,0 +1,100 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "" "Libs/kddockwidgets/kddockwidgets_autogen/timestamp" "custom" "Libs/kddockwidgets/kddockwidgets_autogen/deps"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/Config.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/Config.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/Config.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/KDDockWidgets.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/KDDockWidgets.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/KDDockWidgets.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/LayoutSaver.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/LayoutSaver.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/LayoutSaver.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/Action.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Action.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Action.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/Controller.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Controller.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Controller.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/DelayedCall.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/DelayedCall.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/DelayedCall.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/DockRegistry.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/DockRegistry.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/DockRegistry.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/DockWidget.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/DockWidget.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/DockWidget.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/DragController.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/DragController.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/DragController.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/Draggable.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Draggable.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Draggable.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/DropArea.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/DropArea.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/DropArea.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/DropIndicatorOverlay.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/DropIndicatorOverlay.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/DropIndicatorOverlay.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/FloatingWindow.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/FloatingWindow.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/FloatingWindow.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/FocusScope.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/FocusScope.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/FocusScope.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/Group.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Group.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Group.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/Layout.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Layout.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Layout.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/Logging.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Logging.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Logging.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/MDILayout.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/MDILayout.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/MDILayout.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/MainWindow.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/MainWindow.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/MainWindow.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/Platform.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Platform.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Platform.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/Position.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Position.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Position.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/Screen.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Screen.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Screen.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/Separator.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Separator.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Separator.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/SideBar.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/SideBar.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/SideBar.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/Stack.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Stack.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Stack.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/TabBar.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/TabBar.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/TabBar.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/TitleBar.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/TitleBar.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/TitleBar.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/View.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/View.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/View.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/ViewFactory.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/ViewFactory.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/ViewFactory.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/ViewGuard.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/ViewGuard.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/ViewGuard.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/WidgetResizeHandler.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/WidgetResizeHandler.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/WidgetResizeHandler.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/Window.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Window.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/Window.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/WindowBeingDragged.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/WindowBeingDragged.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/WindowBeingDragged.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/indicators/ClassicDropIndicatorOverlay.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/indicators/ClassicDropIndicatorOverlay.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/indicators/ClassicDropIndicatorOverlay.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/indicators/NullDropIndicatorOverlay.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/indicators/NullDropIndicatorOverlay.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/indicators/NullDropIndicatorOverlay.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/indicators/SegmentedDropIndicatorOverlay.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/indicators/SegmentedDropIndicatorOverlay.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/indicators/SegmentedDropIndicatorOverlay.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/layouting/Item.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/layouting/Item.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/layouting/Item.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/layouting/ItemFreeContainer.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/layouting/ItemFreeContainer.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/layouting/ItemFreeContainer.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/views/ClassicIndicatorWindowViewInterface.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/views/ClassicIndicatorWindowViewInterface.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/views/ClassicIndicatorWindowViewInterface.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/views/DockWidgetViewInterface.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/views/DockWidgetViewInterface.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/views/DockWidgetViewInterface.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/views/GroupViewInterface.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/views/GroupViewInterface.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/views/GroupViewInterface.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/views/MainWindowMDIViewInterface.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/views/MainWindowMDIViewInterface.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/views/MainWindowMDIViewInterface.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/views/MainWindowViewInterface.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/views/MainWindowViewInterface.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/views/MainWindowViewInterface.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/views/SideBarViewInterface.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/views/SideBarViewInterface.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/views/SideBarViewInterface.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/views/StackViewInterface.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/views/StackViewInterface.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/views/StackViewInterface.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/views/TabBarViewInterface.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/views/TabBarViewInterface.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/views/TabBarViewInterface.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/core/views/TitleBarViewInterface.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/views/TitleBarViewInterface.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/core/views/TitleBarViewInterface.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/build_release/Libs/kddockwidgets/kddockwidgets_autogen/mocs_compilation.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/kddockwidgets_autogen/mocs_compilation.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/kddockwidgets_autogen/mocs_compilation.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtcommon/CustomFrameHelper.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtcommon/CustomFrameHelper.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtcommon/CustomFrameHelper.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtcommon/DragControllerWayland_p.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtcommon/DragControllerWayland_p.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtcommon/DragControllerWayland_p.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtcommon/Platform.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtcommon/Platform.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtcommon/Platform.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtcommon/Screen.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtcommon/Screen.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtcommon/Screen.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtcommon/View.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtcommon/View.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtcommon/View.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtcommon/ViewWrapper.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtcommon/ViewWrapper.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtcommon/ViewWrapper.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtcommon/Window.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtcommon/Window.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtcommon/Window.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/Action.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/Action.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/Action.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/Platform.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/Platform.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/Platform.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/ViewFactory.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/ViewFactory.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/ViewFactory.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/Window.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/Window.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/Window.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/views/ClassicIndicatorsWindow.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/ClassicIndicatorsWindow.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/ClassicIndicatorsWindow.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/views/DockWidget.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/DockWidget.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/DockWidget.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/views/DropArea.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/DropArea.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/DropArea.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/views/FloatingWindow.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/FloatingWindow.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/FloatingWindow.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/views/Group.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/Group.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/Group.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/views/MDIArea.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/MDIArea.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/MDIArea.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/views/MDILayout.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/MDILayout.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/MDILayout.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/views/MainWindow.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/MainWindow.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/MainWindow.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/views/MainWindowMDI.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/MainWindowMDI.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/MainWindowMDI.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/views/RubberBand.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/RubberBand.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/RubberBand.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/views/SegmentedDropIndicatorOverlay.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/SegmentedDropIndicatorOverlay.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/SegmentedDropIndicatorOverlay.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/views/Separator.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/Separator.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/Separator.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/views/SideBar.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/SideBar.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/SideBar.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/views/Stack.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/Stack.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/Stack.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/views/TabBar.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/TabBar.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/TabBar.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/views/TitleBar.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/TitleBar.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/TitleBar.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/views/View.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/View.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/View.cpp.obj.d"
+  "D:/AdaptixC2-v1.2/AdaptixClient/Libs/kddockwidgets/qtwidgets/views/ViewWrapper.cpp" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/ViewWrapper.cpp.obj" "gcc" "Libs/kddockwidgets/CMakeFiles/kddockwidgets.dir/qtwidgets/views/ViewWrapper.cpp.obj.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

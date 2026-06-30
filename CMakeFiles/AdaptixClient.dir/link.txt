@@ -1,3 +1,0 @@
-C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\AdaptixClient.dir/objects.a
-C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\AdaptixClient.dir/objects.a @CMakeFiles\AdaptixClient.dir\objects1.rsp
-C:\Qt\Tools\mingw1310_64\bin\c++.exe -O3 -DNDEBUG  -Wl,-subsystem,windows -static-libgcc -static-libstdc++ -Wl,--whole-archive CMakeFiles\AdaptixClient.dir/objects.a -Wl,--no-whole-archive -o AdaptixClient.exe -Wl,--out-implib,libAdaptixClient.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AdaptixClient.dir\linkLibs.rsp
